@@ -1,4 +1,4 @@
-# 📊 Campaign Performance & ROI Dashboard
+# 📊 SOCIAL MEDIA Campaign Performance & ROI Dashboard
 
 This Power BI dashboard analyzes campaign performance across multiple metrics such as:
 - **CTR (Click-through Rate)**
@@ -28,3 +28,4 @@ This Power BI dashboard analyzes campaign performance across multiple metrics su
 ---
 
 👨‍💻 Created by Aryan
+
